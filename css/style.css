@@ -1,5 +1,5 @@
 body {
-	font-family: "Poppins", sans-serif;
+	font-family: "Arvo", sans-serif;
     background-image: url("../img/fondo.png");
     background-position: center;
     background-size:auto;
@@ -23,8 +23,9 @@ header div {text-align: center;
 			margin: 0;
 			padding:0;
 }
-header div h1, h2, h3 {display: inline;
+header div h1, h2,{display: inline;
 }
+header div h3
 a {text-decoration: none}
 nav {height: 4rem;
 	background: rgb(212, 26, 26);
@@ -47,8 +48,8 @@ nav li {display: inline-flex;
 		padding-left: 2rem;
 		padding-right: 2rem}
 nav a {color: rgb(255, 255, 255)}
-nav a :hover {color: rgb(26, 89, 226);}
-nav a :visited {color:black;}
+nav a:hover {color: rgb(26, 89, 226);}
+nav a:visited {color:black;}
 article {background: rgba(0,0,0,0.75);
 		color: white;
 		margin: 0 10% ;
