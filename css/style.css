@@ -9,28 +9,6 @@ body {
     display: inline;
 	min-height: 100vh;
 }
-main {height:auto;
-}
-header {
-    height: 3rem;
-    background-color: #ffffff;
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
-header div {text-align: center;
-			margin: 0;
-			padding:0;
-}
-header div h1, h2,{display: inline;
-}
-header div h3
-a {text-decoration: none}
-nav {height: 4rem;
-	background: rgb(212, 26, 26);
-	margin-top:0.1rem;
-	margin-bottom:0.1rem;}
 h1 {
 	font-size: 1.8rem;
 }
@@ -54,6 +32,29 @@ h5 {
 h6 {
 	font-size: 0.9rem;
 }
+main {height:auto;
+}
+header {
+    height: 3rem;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header div {text-align: center;
+			margin: 0;
+			padding:0;
+}
+header div h1, h2,{display: inline;
+}
+header div h3
+a {text-decoration: none}
+nav {height: 4rem;
+	background: rgb(212, 26, 26);
+	margin-top:0.1rem;
+	margin-bottom:0.1rem;}
+
 nav img {
     height: 100%;
     padding: 0;
